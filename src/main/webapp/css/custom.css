@@ -10,3 +10,9 @@
         position: relative;
  	    height: 500px;
     }
+
+    .editorReadOnly {
+        position:absolute;
+        height: 100px;
+        width: 90%
+    }
